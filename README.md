@@ -7,15 +7,15 @@
 Refs(1) : The MNIST Database: http://yann.lecun.com/exdb/mnist/
 
 Abstract: Pres - ProjectAbstract.doc
-* viewed here: https://github.com/jk8761
-* summary presentation: https://github.com/jk8761
+* viewed here: https://github.com/jk8761/MSDS696/blob/master/Pres%20-%20ProjectAbstract.doc
+* summary presentation: https://github.com/jk8761/MSDS696/blob/master/Abstract%20Object%20Image%20Recognition.pptx
 
 This project will accomplish Image recognition on the MNIST dataset of handwritten digits, available from ref(1). The dataset is separated into a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image
 
 ## Data Preparation and Discovery
 Exploratory Data Analysis: Pres - ProjectImportEDA.doc
-* viewed here: https://github.com/jk8761
-* summary presentation: https://github.com/jk8761
+* viewed here: https://github.com/jk8761/MSDS696/blob/master/Pres%20-%20ProjectImportEDA.doc
+* summary presentation: https://github.com/jk8761/MSDS696/blob/master/MNIST%20Dataset%20Object%20Image%20Recognition.pptx
 
 The purpose is to use the NIST dataset and process those images using toolsets Python (on jupyter) and TensorFlow/Keras.
 
@@ -23,8 +23,8 @@ Data Discovery will be to visualize and verify the MNIST dataset. Data Cleansing
 
 ## Neural Network
 Neural Network Analysis: Pres - ProjectCNN.doc
-* viewed here: https://github.com/jk8761
-* summary presentation: https://github.com/jk8761
+* viewed here: https://github.com/jk8761/MSDS696/blob/master/Pres%20-%20ProjectCNN.doc
+* summary presentation: https://github.com/jk8761/MSDS696/blob/master/CNN%20Object%20Image%20Recognition.pptx
 
 Summary: 
 A Simple Neural Network (NN) and Convolutional Neural Network (CNN) will be used to accomplish Image Recognition. NN is used as benchmark comparison for the CNN (educational purposes); the analysis will be accomplished using a simple NN and compared to the CNN on the very same dataset
@@ -41,5 +41,7 @@ Convolutional Neural Networks (CNNs) are the current state-of-the-art model arch
 The final dense layer (typically called "fully connected") in a CNN contains a single node for each target class in the model (e.g. all the possible classes the model may predict), with a softmax activation function to generate a value between 0–1 for each node (the sum of all these softmax values is equal to 1). Interpret the softmax values for a given image as 'relative measurements' of how likely it is that the image falls into each target class.
 
 ## Condensed Summary
-This video is a summary presentation of the above documents and results: https://www.youtube.com/
+The Results from the Simple Neural Network and Convolutional Neural Network comparison can be found here:
+https://github.com/jk8761/MSDS696/blob/master/Results%20Object%20Image%20Recognition.pptx
 
+Overall Full Video Summary Presentation: https://www.youtube.com/
