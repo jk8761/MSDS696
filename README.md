@@ -1,5 +1,7 @@
 # MSDS696
 
+# NOT DONE YET - Will include full links and video soon
+
 ## Project Abstract
 
 Refs(1) : The MNIST Database: http://yann.lecun.com/exdb/mnist/
@@ -20,7 +22,7 @@ The purpose is to use the NIST dataset and process those images using toolsets P
 Data Discovery will be to visualize and verify the MNIST dataset. Data Cleansing steps normally used to prepare the dataset will also be included as necessary; these steps are to standardize, impute, dimensional reductions, etc. It is assumed that the dataset will not need Data Cleansing other than verifying the formats.
 
 ## Neural Network
-Neural Network Analysis: Pres - ProjectCNN
+Neural Network Analysis: Pres - ProjectCNN.doc
 * viewed here: https://github.com/jk8761
 * summary presentation: https://github.com/jk8761
 
