@@ -1,6 +1,6 @@
 # MSDS696
-MSDS696 - Project
-Project Abstract
+### MSDS696 - Project
+## Project Abstract
 
 Refs(1) : The MNIST Database: http://yann.lecun.com/exdb/mnist/
 
