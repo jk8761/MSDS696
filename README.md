@@ -1,7 +1,5 @@
 # MSDS696
 
-# NOT DONE YET - Will include full links and video soon
-
 ## Project Abstract
 
 Refs(1) : The MNIST Database: http://yann.lecun.com/exdb/mnist/
@@ -44,4 +42,4 @@ The final dense layer (typically called "fully connected") in a CNN contains a s
 The Results from the Simple Neural Network and Convolutional Neural Network comparison can be found here:
 https://github.com/jk8761/MSDS696/blob/master/Results%20Object%20Image%20Recognition.pptx
 
-Overall Full Video Summary Presentation: https://www.youtube.com/
+Overall Full Video Summary Presentation: https://www.youtube.com/watch?v=4nuKjPsdU64
